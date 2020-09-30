@@ -1,3 +1,5 @@
+//hey this is just an comment added..
+
 import cv2
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 img=cv2.imread("C:\\Users\\pranesh\\Desktop\\python\\face detection\\group.jpg",1)
